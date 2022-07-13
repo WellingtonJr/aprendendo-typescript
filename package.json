@@ -1,0 +1,28 @@
+{
+  "name": "desafio-projeto-dio",
+  "version": "1.0.0",
+  "description": "Repositório criado para a entrega do desafio de projeto de TypeScript da plataforma DIO.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WellingtonJr/desafio-projeto-dio-typescrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WellingtonJr/desafio-projeto-dio-typescrypt/issues"
+  },
+  "homepage": "https://github.com/WellingtonJr/desafio-projeto-dio-typescrypt#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "tsc": "^2.0.4"
+  }
+}
